@@ -1,0 +1,5 @@
+number=input ('Insert 6')
+if number ==6:
+    print('The number is 6')
+else:
+    print('The number is not 6')

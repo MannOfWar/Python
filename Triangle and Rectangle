@@ -1,0 +1,13 @@
+item=raw_input("What kind of Geometrical object do you wish to calculate?")
+
+if item== "triangle":
+    base=input("Insert the Base of the Triangle:")
+    height=input("Insert the Height of the Triangle")
+    length=base*height/2
+    print("The length of your Triangle is {0}".format(length))
+
+if item== "rectangle":
+    length=input ("Insert the length of the Rectangle")
+    width=input ("Insert the width of the Rectangle")
+    area=length*width
+    print("The Area of your Rectangle is {0}".format(area))

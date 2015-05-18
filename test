@@ -1,0 +1,27 @@
+#Print String
+print ('hello world')
+
+#Print Number
+print (1)
+
+#Print Number Concantenate
+print("1"+"2")
+
+#Print Word Concantenate
+print("hello"+"world")
+
+#Print Equation
+print (1+1)
+
+#Variable
+var=1
+
+#Print Equation Variable
+print(var*2)
+
+#Print String Variable
+var2='wat'
+print var2
+
+#Multiply String Variable
+print var2*2
