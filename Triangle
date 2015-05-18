@@ -1,5 +1,0 @@
-print ('So you want to calculate the Area of your triangle...')
-base =input ('Insert the Height of the triangle...')
-height =input ('Insert the Base of the triangle...')
-area =base*height/2
-print ('The Area of your triangle is {0}'.format(area))

@@ -1,7 +1,0 @@
-print ('Welcome to whatever this store\'s name is...')
-item=raw_input ('What item do you want to buy?...')
-quantity=input ('How much {0} do you want to buy?'.format(item))
-price=quantity*500
-print ('For {0} {1}, It will be {2}'.format(quantity,item,price))
-print ('Thank you for your patronage')
-              

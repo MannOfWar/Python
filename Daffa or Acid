@@ -1,5 +1,0 @@
-name=raw_input('Insert Acid or Daffa')
-if name== 'Acid':
-    print ('Acid, right?')
-if name== 'Daffa':
-    print ('There is a lot of people named Daffa, and i have absolutely NO idea which one you\'re referring to')
