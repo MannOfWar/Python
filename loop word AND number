@@ -1,0 +1,6 @@
+word = raw_input("Insert a word ") 
+quantity = input("How many times? ")
+loop = 0
+while loop<quantity:
+    print ("{0} {1}".format(word,quantity))
+    loop=quantity+1
